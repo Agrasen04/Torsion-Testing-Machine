@@ -9,6 +9,7 @@ Python (NumPy, Matplotlib, Pandas)
 Jupyter Notebook / Colab
 Excel (for data collection and initial analysis)
 Mechanical Lab setup for torsion testing
+
 📊 Features
 Data collection from torsion testing machine
 Shear stress vs. angle of twist plotting
@@ -17,6 +18,7 @@ Polar moment of inertia
 Modulus of rigidity (G)
 Shear strain
 Comparative analysis of materials (e.g., aluminum vs. steel)
+
 📝 Methodology
 Collected torque and angle of twist data from lab experiments.
 Used theoretical formulas:
